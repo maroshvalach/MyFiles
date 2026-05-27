@@ -1,0 +1,1583 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Baxter Creek Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.563556,
+                    35.864825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Cedar Falls SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.731441,
+                    35.780591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Mocksville Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.574501,
+                    35.833746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Winecoff BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.375777,
+                    35.675323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Woodleaf Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.608968,
+                    35.725432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Oldtown Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.124981,
+                    36.328529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Sadler BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.632773,
+                    36.391425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Five Notch Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.165547,
+                    34.028001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Peach Valley BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.89353,
+                    35.00752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Beaverdam Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0307,
+                    34.6453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Bush River Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7944,
+                    34.3861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Gable Hill Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7783,
+                    34.3528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Hudson Place BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.693527,
+                    34.247003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Hudson Place Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6922,
+                    34.2391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Ponderosa Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.57301,
+                    34.28494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "WS Lee (FKA Holland Ford) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.454155,
+                    34.605158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "WS Lee Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.26448,
+                    34.35284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Mayo GRR Ph1 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.891667,
+                    36.526264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Williamsboro BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.409239,
+                    36.508525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Elm City BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.853168,
+                    35.790609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Elm City Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.852165,
+                    35.782484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Knightdale (Wake) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4535,
+                    35.782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Longleaf SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.90459,
+                    35.667231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "New Hill 2 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.948644,
+                    35.655626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "New Hill BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.948406,
+                    35.65768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Red Bud BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.017961,
+                    36.074672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Red Bud Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.023428,
+                    36.080247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Spring Hope BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.088911,
+                    35.959811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Granville Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7162,
+                    36.3846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Anson 1 Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.99243,
+                    35.01388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Anson 2 Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.05207,
+                    35.02001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Monroe BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6315,
+                    34.9289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Monroe Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.624422,
+                    34.932261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Boggy Branch Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.91285,
+                    34.49059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Juniper Creek SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.450632,
+                    34.860643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Old Hundred Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.637355,
+                    34.83823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Robinson BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.163773,
+                    34.421794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Robinson Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1918,
+                    34.4168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Seaboard SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.20171,
+                    34.428235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Smith (FKA Richmond) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.737021,
+                    34.832897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "St. Charles SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.243236,
+                    34.047557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Sugarloaf Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.02062,
+                    34.504765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Weatherspoon 1 (Egret) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.969964,
+                    34.591465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Weatherspoon 2 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.969964,
+                    34.591465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Cliffside 1 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.771812,
+                    35.220328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Cliffside 2 (FKA Dove) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.771811,
+                    35.220329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Cliffside 3 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.744083,
+                    35.229526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Stamey (FKA Island Ford) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.986984,
+                    35.781246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Asheville Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5446,
+                    35.4694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Asheville� �(fmr. Lake Julian) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.542217,
+                    35.472187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Clark Creek SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.248656,
+                    35.532689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Craggy BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.608403,
+                    35.641697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Gaston Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3558,
+                    35.3231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Maiden Creek BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.186018,
+                    35.612822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Maiden Creek Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.18768,
+                    35.61397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Wilkes BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.110723,
+                    36.177059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Bear Marsh Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.0538,
+                    35.1633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Camp LeJeune Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.350692,
+                    34.723514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Deerwood SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.848337,
+                    35.266801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "HF Lee 1 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.086185,
+                    35.362399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "HF Lee 2 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.095524,
+                    35.367408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Panther Branch SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.144825,
+                    35.14554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Warsaw 2 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.1165,
+                    35.0017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Warsaw BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.1165,
+                    35.0017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Warsaw Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.125956,
+                    35.005494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Wylie (FKA India Hook) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.008524,
+                    35.012777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Harrisburg (FKA Granite) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.68798,
+                    35.312793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Highway 73 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.942435,
+                    35.422811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Allen 1 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.02505,
+                    35.18958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Allen 2 (GRR) BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.010368,
+                    35.192234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Allen 3 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.026044,
+                    35.185355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Riverbend 1 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.968468,
+                    35.362435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Riverbend 2 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.962102,
+                    35.364162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "CHARLOTTE",
+                "fill": "#FFFF00",
+                "fill-opacity": 0.3,
+                "stroke": "#787800",
+                "stroke-opacity": 1,
+                "stroke-width": 2
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.930239,
+                            35.447231
+                        ],
+                        [
+                            -80.966102,
+                            35.457393
+                        ],
+                        [
+                            -80.966102,
+                            35.458663
+                        ],
+                        [
+                            -80.989495,
+                            35.435804
+                        ],
+                        [
+                            -80.987948,
+                            35.387529
+                        ],
+                        [
+                            -81.011344,
+                            35.346842
+                        ],
+                        [
+                            -81.062811,
+                            35.204255
+                        ],
+                        [
+                            -81.069048,
+                            35.168568
+                        ],
+                        [
+                            -81.061264,
+                            35.025655
+                        ],
+                        [
+                            -81.047221,
+                            34.992449
+                        ],
+                        [
+                            -81.002011,
+                            34.984766
+                        ],
+                        [
+                            -80.964583,
+                            35.005205
+                        ],
+                        [
+                            -80.668264,
+                            35.287038
+                        ],
+                        [
+                            -80.651102,
+                            35.315044
+                        ],
+                        [
+                            -80.683861,
+                            35.348113
+                        ],
+                        [
+                            -80.930239,
+                            35.447231
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Black Walnut SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.15218,
+                    35.05003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Moseley Creek",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.708442,
+                    35.266654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Fayetteville Solar",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.843478,
+                    34.834358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Stedman SPWS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.745944,
+                    35.021944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "COASTAL",
+                "fill": "#FF7800",
+                "fill-opacity": 0.3,
+                "stroke": "#783C00",
+                "stroke-opacity": 1,
+                "stroke-width": 2
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.66818,
+                            35.30375
+                        ],
+                        [
+                            -77.990515,
+                            35.397177
+                        ],
+                        [
+                            -78.081091,
+                            35.414542
+                        ],
+                        [
+                            -78.17166,
+                            35.377631
+                        ],
+                        [
+                            -78.72572,
+                            35.094774
+                        ],
+                        [
+                            -78.810985,
+                            35.031544
+                        ],
+                        [
+                            -78.898863,
+                            34.880908
+                        ],
+                        [
+                            -78.906848,
+                            34.806581
+                        ],
+                        [
+                            -78.813631,
+                            34.784701
+                        ],
+                        [
+                            -77.444391,
+                            34.688352
+                        ],
+                        [
+                            -77.348435,
+                            34.675185
+                        ],
+                        [
+                            -77.287212,
+                            34.72558
+                        ],
+                        [
+                            -77.116704,
+                            34.998813
+                        ],
+                        [
+                            -77.087382,
+                            35.062075
+                        ],
+                        [
+                            -77.137999,
+                            35.103496
+                        ],
+                        [
+                            -77.66818,
+                            35.30375
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "MOUNTAIN",
+                "fill": "#FF0000",
+                "fill-opacity": 0.3,
+                "stroke": "#780000",
+                "stroke-opacity": 1,
+                "stroke-width": 2
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.062507,
+                            36.25139
+                        ],
+                        [
+                            -81.22976,
+                            36.235444
+                        ],
+                        [
+                            -82.688713,
+                            35.754458
+                        ],
+                        [
+                            -82.747435,
+                            35.590949
+                        ],
+                        [
+                            -82.629788,
+                            35.382973
+                        ],
+                        [
+                            -81.907634,
+                            35.149963
+                        ],
+                        [
+                            -81.68154,
+                            35.162002
+                        ],
+                        [
+                            -81.312903,
+                            35.254355
+                        ],
+                        [
+                            -81.214612,
+                            35.346617
+                        ],
+                        [
+                            -81.01312,
+                            35.574807
+                        ],
+                        [
+                            -80.880426,
+                            35.734548
+                        ],
+                        [
+                            -80.870596,
+                            35.854144
+                        ],
+                        [
+                            -80.974008,
+                            36.195911
+                        ],
+                        [
+                            -81.062507,
+                            36.25139
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "Weatherspoon 3 BESS",
+                "visibility": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.969964,
+                    34.591465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "PEEDEE",
+                "fill": "#00FF00",
+                "fill-opacity": 0.3,
+                "stroke": "#007800",
+                "stroke-opacity": 1,
+                "stroke-width": 2
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.894015,
+                            34.592216
+                        ],
+                        [
+                            -79.386498,
+                            34.907194
+                        ],
+                        [
+                            -79.905345,
+                            35.064221
+                        ],
+                        [
+                            -80.047445,
+                            35.083149
+                        ],
+                        [
+                            -80.556234,
+                            35.026247
+                        ],
+                        [
+                            -80.711472,
+                            34.99104
+                        ],
+                        [
+                            -80.708178,
+                            34.901678
+                        ],
+                        [
+                            -80.36803,
+                            34.073688
+                        ],
+                        [
+                            -80.288725,
+                            33.986022
+                        ],
+                        [
+                            -80.126776,
+                            34.029863
+                        ],
+                        [
+                            -78.900602,
+                            34.543229
+                        ],
+                        [
+                            -78.894015,
+                            34.592216
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "RALEIGH",
+                "fill": "#FF00FF",
+                "fill-opacity": 0.3,
+                "stroke": "#780078",
+                "stroke-opacity": 1,
+                "stroke-width": 2
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.897631,
+                            36.614979
+                        ],
+                        [
+                            -79.037603,
+                            36.555266
+                        ],
+                        [
+                            -79.076993,
+                            35.646961
+                        ],
+                        [
+                            -78.932635,
+                            35.57938
+                        ],
+                        [
+                            -77.782007,
+                            35.689579
+                        ],
+                        [
+                            -77.742631,
+                            35.817398
+                        ],
+                        [
+                            -77.935185,
+                            36.136034
+                        ],
+                        [
+                            -78.276455,
+                            36.548286
+                        ],
+                        [
+                            -78.407695,
+                            36.607999
+                        ],
+                        [
+                            -78.897631,
+                            36.614979
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "SALUDA",
+                "fill": "#0000FF",
+                "fill-opacity": 0.3,
+                "stroke": "#000078",
+                "stroke-opacity": 1,
+                "stroke-width": 2
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.054899,
+                            34.999919
+                        ],
+                        [
+                            -82.537866,
+                            34.666376
+                        ],
+                        [
+                            -82.521217,
+                            34.556716
+                        ],
+                        [
+                            -82.278051,
+                            34.000588
+                        ],
+                        [
+                            -82.091466,
+                            33.9591
+                        ],
+                        [
+                            -81.485095,
+                            34.212979
+                        ],
+                        [
+                            -81.471721,
+                            34.317588
+                        ],
+                        [
+                            -81.811712,
+                            35.059949
+                        ],
+                        [
+                            -81.971631,
+                            35.05992
+                        ],
+                        [
+                            -82.054899,
+                            34.999919
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE": "TRIAD",
+                "fill": "#00FFFF",
+                "fill-opacity": 0.3,
+                "stroke": "#007878",
+                "stroke-opacity": 1,
+                "stroke-width": 2
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.754035,
+                            36.43424
+                        ],
+                        [
+                            -79.852094,
+                            36.43176
+                        ],
+                        [
+                            -80.103314,
+                            36.412007
+                        ],
+                        [
+                            -80.277902,
+                            36.320743
+                        ],
+                        [
+                            -80.679108,
+                            35.905083
+                        ],
+                        [
+                            -80.691364,
+                            35.674021
+                        ],
+                        [
+                            -80.385076,
+                            35.60677
+                        ],
+                        [
+                            -79.723388,
+                            35.696334
+                        ],
+                        [
+                            -79.625361,
+                            35.785845
+                        ],
+                        [
+                            -79.542719,
+                            36.399715
+                        ],
+                        [
+                            -79.64687,
+                            36.461326
+                        ],
+                        [
+                            -79.754035,
+                            36.43424
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
